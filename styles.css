@@ -24,6 +24,11 @@ body {
     border: none;
     flex-shrink: 0;
 }
+.logo img {
+    height: 48px;
+    width: auto;
+    display: block;
+}
 .topbar nav {
     display: flex;
     flex: 1;
