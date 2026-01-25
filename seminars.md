@@ -11,4 +11,4 @@
 
 - April 12-16, 2026 Unconventional Optical Imaging SPIE-photonics [Read more](https://spie.org/EPE26/conferencedetails/unconventional-optical-imaging)
 
-- April 12-16, 2026 Computational Optics SPIE-photonics [Read more](https://spie.org/EOD26/conferencedetails/computational-optics){:target="_blank"}
+- April 12-16, 2026 Computational Optics SPIE-photonics [Read more](https://spie.org/EOD26/conferencedetails/computational-optics)
