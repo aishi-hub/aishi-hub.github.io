@@ -1,5 +1,7 @@
 **Conferences and Workshops**
 
+- July 6-11, 2026, ICML2026 Forty-Third International Conference on Machine Learning [Read more](https://icml.cc/)
+
 - June 14-17, 2026 IASIM-2026 Conference on spectral imaging [Read more](https://2026.iasim.net/)
 
 - Mars 12-13, 2026 GDR-IASIS Journée Imagerie non-conventionnelle [Read more](https://gdr-iasis.cnrs.fr/reunions/journees-imagerie-optique-non-conventionnelle-21e-edition/)
