@@ -9,7 +9,9 @@
 
 - Mars 9-11, 2026 | Colloque intelligence artificielle en imagerie biomédicale (IABM) – *ENS Lyon, France*. [Read more](https://iabm2026.sciencesconf.org/).
 
-- Apri 12-16, 2026, Biomedical Spectroscopy SPIE-photonics [Read more](https://spie.org/EPE26/conferencedetails/biomedical-spectroscopy-microscopy-imaging)
+- April 20-24, 2026, Unifying Galactic and Extragalactic views of SF with Spectroscopic Studies and Data Science, - *Paris, France*. [Read more](https://daoism2026.sciencesconf.org/)
+
+- April 12-16, 2026, Biomedical Spectroscopy SPIE-photonics [Read more](https://spie.org/EPE26/conferencedetails/biomedical-spectroscopy-microscopy-imaging)
 
 - April 12-16, 2026 Unconventional Optical Imaging SPIE-photonics [Read more](https://spie.org/EPE26/conferencedetails/unconventional-optical-imaging)
 
