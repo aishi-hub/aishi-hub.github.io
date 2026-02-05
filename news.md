@@ -1,3 +1,3 @@
-- 11 Nov, 2025 | DeepLearning3D website up!**
+- 11 Nov, 2025 | Website up!**
 - 03 Nov, 2025 | Mise en place du [bureau](#bureau).**
 - 04 Nov, 2024 | Deeplearning3D symposium in Lyon. [Read more](https://deeplearning3d.sciencesconf.org/)**
