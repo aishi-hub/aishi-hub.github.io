@@ -7,7 +7,7 @@
 
 **Past Conferences and Workshops**
 
-    - Nov 12-14, 2025 | IEEE WHISPERS 2025 – *Barcelona, Spain*. [Read more](https://www.ieee-whispers.com/).
+    - Nov 12-14, 2025 | IEEE Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) 2025 – *Barcelona, Spain*. [Read more](https://www.ieee-whispers.com/).
 
     - Oct 24, 2025 | Modèles génératifs : diffusion, flow matching et leurs applications. [Read more](https://gdr-iasis.cnrs.fr/reunions/modeles-generatifs-diffusion-flow-matching-et-leurs-applications/).
 
