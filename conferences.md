@@ -1,7 +1,7 @@
 **Conferences and Workshops**
 
- <span>[July 6-11, 2026]</span> ICML2026: Forty-Third International Conference on Machine Learning - *Seoul, Korea*. <span>[Read more]</span>(https://icml.cc/).
+(July 6-11, 2026) ICML2026: Forty-Third International Conference on Machine Learning - *Seoul, Korea*. (Read more)(https://icml.cc/).
 
- <span>[June 14-17, 2026]</span> IASIM-2026: Conference on spectral imaging. <span>[Read more]</span>(https://2026.iasim.net/).
+(June 14-17, 2026) IASIM-2026: Conference on spectral imaging. (Read more)(https://2026.iasim.net/).
 
- <span>[June 20, 2026]</span> POPILSS days: Parcimonie, Optimisation et Problèmes Inverses Lyon St-Etienne Savoie. <span>[Read more]</span>(https://popils-day.github.io/).
+(June 20, 2026) POPILSS days: Parcimonie, Optimisation et Problèmes Inverses Lyon St-Etienne Savoie. (Read more)(https://popils-day.github.io/).
