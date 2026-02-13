@@ -1,4 +1,4 @@
-- (20 Jan, 2026) Deeplearin3d is becoming Artificial Intelligence for Spectral/Hyperspectral Imaging (AISHI)
+- (20 Jan, 2026) Deeplearning3d is becoming Artificial Intelligence for Spectral/Hyperspectral Imaging (AISHI)
 - (11 Nov, 2025) Website up!**
 - (03 Nov, 2025) Mise en place du [bureau](#bureau).**
 - (04 Nov, 2024) Deeplearning3D symposium in Lyon. [Read more](https://deeplearning3d.sciencesconf.org/)**
