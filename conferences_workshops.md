@@ -2,6 +2,10 @@
 
 - July 6-11, 2026 | ICML2026 Forty-Third International Conference on Machine Learning - *Seoul, Korea*. [Read more](https://icml.cc/)
 
+- June 23-24, 2026 | SFPT-GH 2026, 11ème colloque scientifique du groupe hyperspectrale [Read more](https://docs.google.com/forms/d/e/1FAIpQLSf3jjOlS1CWhbeLUtbTncFG-R1_EQR_Hy3lZXiW85LXKOXwEA/viewform/)
+
+- June 23-24, 2026 | HélioSPIR-2026, 27e rencontre [Read more](https://www.heliospir.net/les-27emes-rencontres-heliospir-juin-2026/)
+
 - June 14-17, 2026 | IASIM-2026 Conference on spectral imaging [Read more](https://2026.iasim.net/)
 
 - June 20, 2026 | POPILSS days: journée Parcimonie Optimisation et Problemes Inverses Lyon StEtienne Savoir [Read more](https://popils-day.github.io/)
