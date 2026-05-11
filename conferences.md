@@ -10,6 +10,8 @@
 
 - (June 20, 2026) POPILSS days: Parcimonie, Optimisation et Problèmes Inverses Lyon St-Etienne Savoie. [Read more](https://popils-day.github.io/).
 
+- (June 8, 2026) JOURNÉE IA POUR LES SCIENCES EXACTES ET EXPÉRIMENTALES Lyon. [Read more](https://www.universite-lyon.fr/ia-pour-les-sciences-experimentales-des-architectures-a-la-mise-en-pratiqueue-407833.kjsp)
+  
 - (April 20-24, 2026) Unifying Galactic and Extragalactic views of SF with Spectroscopic Studies and Data Science -- *Paris, France*. [Read more](https://daoism2026.sciencesconf.org/).
 
 - (April 12-16, 2026) Biomedical Spectroscopy SPIE-photonics. [Read more](https://spie.org/EPE26/conferencedetails/biomedical-spectroscopy-microscopy-imaging).
