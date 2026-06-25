@@ -1,6 +1,10 @@
 **Conferences and Workshops**
 
+- (Oct 6-7, 2026) AISHI 2026: Artificial Intelligence for Spectral/Hyperspectral Imaging - *Lyon, France*. [Read more](https://aishi2026.sciencesconf.org/).
+
 - (July 6-11, 2026) ICML2026: Forty-Third International Conference on Machine Learning - *Seoul, Korea*. [Read more](https://icml.cc/).
+
+**Past Conferences and Workshops**
 
 - (June 23-24, 2026) | SFPT-GH 2026, 11ème colloque scientifique du groupe hyperspectrale - *Toulouse, France*. [Read more](https://docs.google.com/forms/d/e/1FAIpQLSf3jjOlS1CWhbeLUtbTncFG-R1_EQR_Hy3lZXiW85LXKOXwEA/viewform/)
 
@@ -25,9 +29,6 @@
 - (Mar 12-13, 2026) JIONC : Journée Imagerie Optique Non-Conventionnelle (GdR IASIS, Ondes et Imabio) – *IPGP, Paris*. [Read more](https://gdr-iasis.cnrs.fr/reunions/journees-imagerie-optique-non-conventionnelle-21e-edition/).
 
 - (Mar 9-11, 2026) IABM: Colloque intelligence artificielle en imagerie biomédicale – *ENS Lyon, France*. [Read more](https://iabm2026.sciencesconf.org/).
-
-
-**Past Conferences and Workshops**
 
 - (Nov 12-14, 2025) IEEE WHISPERS 2025 – *Barcelona, Spain*. [Read more](https://www.ieee-whispers.com/).
 
