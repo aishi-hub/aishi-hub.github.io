@@ -1,6 +1,6 @@
 **Conferences and Workshops**
 
-- (Oct 6-7, 2026) AISHI 2026: Artificial Intelligence for Spectral/Hyperspectral Imaging - *Lyon, France*. [Read more](https://aishi2026.sciencesconf.org/).
+- (Oct 6-7, 2026) AISHI 2026: Artificial Intelligence for Spectral/Hyperspectral Imaging - *Lyon, France*. [Read more](https://ml4hyper3d.sciencesconf.org/).
 
 - (July 6-11, 2026) ICML2026: Forty-Third International Conference on Machine Learning - *Seoul, Korea*. [Read more](https://icml.cc/).
 
