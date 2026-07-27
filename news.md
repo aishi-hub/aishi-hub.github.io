@@ -1,5 +1,5 @@
-- (24 Jun, 2026) AISHI 2026: Artificial Intelligence for Spectral/Hyperspectral Imaging - *Lyon, France*. [Read more](ml4hyper3d.sciencesconf.org/).
+- (24 Jun, 2026) AISHI 2026: Artificial Intelligence for Spectral/Hyperspectral Imaging - *Lyon, France*. [Read more](https://ml4hyper3d.sciencesconf.org/).**
 - (20 Jan, 2026) Deeplearning3d is becoming Artificial Intelligence for Spectral/Hyperspectral Imaging (AISHI)
 - (11 Nov, 2025) Website up!**
 - (03 Nov, 2025) Mise en place du [bureau](#bureau).**
-- (04 Nov, 2024) Deeplearning3D workshop in Lyon. [Read more](https://deeplearning3d.sciencesconf.org/)**
+- (04 Nov, 2024) Deeplearning3D workshop in Lyon. [Read more](https://deeplearning3d.sciencesconf.org/).**
